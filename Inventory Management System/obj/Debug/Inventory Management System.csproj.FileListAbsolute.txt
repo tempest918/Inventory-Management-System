@@ -1,0 +1,19 @@
+C:\Users\tonyl\OneDrive\Desktop\School\C968 - Software I - C#\code\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+C:\Users\tonyl\OneDrive\Desktop\School\C968 - Software I - C#\code\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+C:\Users\tonyl\OneDrive\Desktop\School\C968 - Software I - C#\code\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+C:\Users\tonyl\OneDrive\Desktop\School\C968 - Software I - C#\code\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.AssemblyReference.cache
+C:\Users\tonyl\OneDrive\Desktop\School\C968 - Software I - C#\code\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+C:\Users\tonyl\OneDrive\Desktop\School\C968 - Software I - C#\code\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+C:\Users\tonyl\OneDrive\Desktop\School\C968 - Software I - C#\code\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\OneDrive\Desktop\School\C968 - Software I - C#\code\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+C:\Users\tonyl\OneDrive\Desktop\School\C968 - Software I - C#\code\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
+C:\Users\tonyl\OneDrive\Desktop\School\C968 - Software I - C#\code\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe.config
+C:\Users\tonyl\OneDrive\Desktop\School\C968 - Software I - C#\code\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.MainForm.resources
+C:\Users\tonyl\OneDrive\Desktop\School\C968 - Software I - C#\code\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.AddPartForm.resources
+C:\Users\tonyl\OneDrive\Desktop\School\C968 - Software I - C#\code\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.ModifyPartForm.resources
+C:\Users\tonyl\OneDrive\Desktop\School\C968 - Software I - C#\code\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.AddProductForm.resources
+C:\Users\tonyl\OneDrive\Desktop\School\C968 - Software I - C#\code\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.ModifyProductForm.resources
+C:\Users\tonyl\OneDrive\Desktop\School\C968 - Software I - C#\code\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.manifest
+C:\Users\tonyl\OneDrive\Desktop\School\C968 - Software I - C#\code\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.application
+C:\Users\tonyl\OneDrive\Desktop\School\C968 - Software I - C#\code\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe.manifest
+C:\Users\tonyl\OneDrive\Desktop\School\C968 - Software I - C#\code\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.application
